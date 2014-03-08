@@ -1,0 +1,2002 @@
+<ROUGE-EVAL version="1.0">
+<EVAL ID="0">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0083-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0083-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M00">0001-0083-0000-0000.model_0.html</M>
+<M ID="M01">0001-0083-0000-0000.model_1.html</M>
+<M ID="M02">0001-0083-0000-0000.model_2.html</M>
+<M ID="M03">0001-0083-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="1">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0102-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0102-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M10">0001-0102-0000-0000.model_0.html</M>
+<M ID="M11">0001-0102-0000-0000.model_1.html</M>
+<M ID="M12">0001-0102-0000-0000.model_2.html</M>
+<M ID="M13">0001-0102-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="2">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0128-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0128-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M20">0001-0128-0000-0000.model_0.html</M>
+<M ID="M21">0001-0128-0000-0000.model_1.html</M>
+<M ID="M22">0001-0128-0000-0000.model_2.html</M>
+<M ID="M23">0001-0128-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="3">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0130-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0130-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M30">0001-0130-0000-0000.model_0.html</M>
+<M ID="M31">0001-0130-0000-0000.model_1.html</M>
+<M ID="M32">0001-0130-0000-0000.model_2.html</M>
+<M ID="M33">0001-0130-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="4">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0208-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0208-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M40">0001-0208-0000-0000.model_0.html</M>
+<M ID="M41">0001-0208-0000-0000.model_1.html</M>
+<M ID="M42">0001-0208-0000-0000.model_2.html</M>
+<M ID="M43">0001-0208-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="5">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0218-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0218-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M50">0001-0218-0000-0000.model_0.html</M>
+<M ID="M51">0001-0218-0000-0000.model_1.html</M>
+<M ID="M52">0001-0218-0000-0000.model_2.html</M>
+<M ID="M53">0001-0218-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="6">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0222-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0222-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M60">0001-0222-0000-0000.model_0.html</M>
+<M ID="M61">0001-0222-0000-0000.model_1.html</M>
+<M ID="M62">0001-0222-0000-0000.model_2.html</M>
+<M ID="M63">0001-0222-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="7">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0234-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0234-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M70">0001-0234-0000-0000.model_0.html</M>
+<M ID="M71">0001-0234-0000-0000.model_1.html</M>
+<M ID="M72">0001-0234-0000-0000.model_2.html</M>
+<M ID="M73">0001-0234-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="8">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0241-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0241-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M80">0001-0241-0000-0000.model_0.html</M>
+<M ID="M81">0001-0241-0000-0000.model_1.html</M>
+<M ID="M82">0001-0241-0000-0000.model_2.html</M>
+<M ID="M83">0001-0241-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="9">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0291-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0291-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M90">0001-0291-0000-0000.model_0.html</M>
+<M ID="M91">0001-0291-0000-0000.model_1.html</M>
+<M ID="M92">0001-0291-0000-0000.model_2.html</M>
+<M ID="M93">0001-0291-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="10">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0316-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0316-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M100">0001-0316-0000-0000.model_0.html</M>
+<M ID="M101">0001-0316-0000-0000.model_1.html</M>
+<M ID="M102">0001-0316-0000-0000.model_2.html</M>
+<M ID="M103">0001-0316-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="11">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0318-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0318-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M110">0001-0318-0000-0000.model_0.html</M>
+<M ID="M111">0001-0318-0000-0000.model_1.html</M>
+<M ID="M112">0001-0318-0000-0000.model_2.html</M>
+<M ID="M113">0001-0318-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="12">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0322-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0322-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M120">0001-0322-0000-0000.model_0.html</M>
+<M ID="M121">0001-0322-0000-0000.model_1.html</M>
+<M ID="M122">0001-0322-0000-0000.model_2.html</M>
+<M ID="M123">0001-0322-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="13">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0364-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0364-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M130">0001-0364-0000-0000.model_0.html</M>
+<M ID="M131">0001-0364-0000-0000.model_1.html</M>
+<M ID="M132">0001-0364-0000-0000.model_2.html</M>
+<M ID="M133">0001-0364-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="14">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0374-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0374-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M140">0001-0374-0000-0000.model_0.html</M>
+<M ID="M141">0001-0374-0000-0000.model_1.html</M>
+<M ID="M142">0001-0374-0000-0000.model_2.html</M>
+<M ID="M143">0001-0374-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="15">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0405-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0405-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M150">0001-0405-0000-0000.model_0.html</M>
+<M ID="M151">0001-0405-0000-0000.model_1.html</M>
+<M ID="M152">0001-0405-0000-0000.model_2.html</M>
+<M ID="M153">0001-0405-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="16">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0425-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0425-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M160">0001-0425-0000-0000.model_0.html</M>
+<M ID="M161">0001-0425-0000-0000.model_1.html</M>
+<M ID="M162">0001-0425-0000-0000.model_2.html</M>
+<M ID="M163">0001-0425-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="17">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0537-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0537-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M170">0001-0537-0000-0000.model_0.html</M>
+<M ID="M171">0001-0537-0000-0000.model_1.html</M>
+<M ID="M172">0001-0537-0000-0000.model_2.html</M>
+<M ID="M173">0001-0537-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="18">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0562-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0562-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M180">0001-0562-0000-0000.model_0.html</M>
+<M ID="M181">0001-0562-0000-0000.model_1.html</M>
+<M ID="M182">0001-0562-0000-0000.model_2.html</M>
+<M ID="M183">0001-0562-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="19">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0613-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0613-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M190">0001-0613-0000-0000.model_0.html</M>
+<M ID="M191">0001-0613-0000-0000.model_1.html</M>
+<M ID="M192">0001-0613-0000-0000.model_2.html</M>
+<M ID="M193">0001-0613-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="20">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0660-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0660-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M200">0001-0660-0000-0000.model_0.html</M>
+<M ID="M201">0001-0660-0000-0000.model_1.html</M>
+<M ID="M202">0001-0660-0000-0000.model_2.html</M>
+<M ID="M203">0001-0660-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="21">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0695-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0695-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M210">0001-0695-0000-0000.model_0.html</M>
+<M ID="M211">0001-0695-0000-0000.model_1.html</M>
+<M ID="M212">0001-0695-0000-0000.model_2.html</M>
+<M ID="M213">0001-0695-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="22">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0705-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0705-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M220">0001-0705-0000-0000.model_0.html</M>
+<M ID="M221">0001-0705-0000-0000.model_1.html</M>
+<M ID="M222">0001-0705-0000-0000.model_2.html</M>
+<M ID="M223">0001-0705-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="23">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0731-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0731-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M230">0001-0731-0000-0000.model_0.html</M>
+<M ID="M231">0001-0731-0000-0000.model_1.html</M>
+<M ID="M232">0001-0731-0000-0000.model_2.html</M>
+<M ID="M233">0001-0731-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="24">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0746-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0746-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M240">0001-0746-0000-0000.model_0.html</M>
+<M ID="M241">0001-0746-0000-0000.model_1.html</M>
+<M ID="M242">0001-0746-0000-0000.model_2.html</M>
+<M ID="M243">0001-0746-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="25">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0754-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0754-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M250">0001-0754-0000-0000.model_0.html</M>
+<M ID="M251">0001-0754-0000-0000.model_1.html</M>
+<M ID="M252">0001-0754-0000-0000.model_2.html</M>
+<M ID="M253">0001-0754-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="26">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0761-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0761-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M260">0001-0761-0000-0000.model_0.html</M>
+<M ID="M261">0001-0761-0000-0000.model_1.html</M>
+<M ID="M262">0001-0761-0000-0000.model_2.html</M>
+<M ID="M263">0001-0761-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="27">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0765-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0765-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M270">0001-0765-0000-0000.model_0.html</M>
+<M ID="M271">0001-0765-0000-0000.model_1.html</M>
+<M ID="M272">0001-0765-0000-0000.model_2.html</M>
+<M ID="M273">0001-0765-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="28">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0768-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0768-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M280">0001-0768-0000-0000.model_0.html</M>
+<M ID="M281">0001-0768-0000-0000.model_1.html</M>
+<M ID="M282">0001-0768-0000-0000.model_2.html</M>
+<M ID="M283">0001-0768-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="29">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0811-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0811-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M290">0001-0811-0000-0000.model_0.html</M>
+<M ID="M291">0001-0811-0000-0000.model_1.html</M>
+<M ID="M292">0001-0811-0000-0000.model_2.html</M>
+<M ID="M293">0001-0811-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="30">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0816-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0816-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M300">0001-0816-0000-0000.model_0.html</M>
+<M ID="M301">0001-0816-0000-0000.model_1.html</M>
+<M ID="M302">0001-0816-0000-0000.model_2.html</M>
+<M ID="M303">0001-0816-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="31">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0830-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0830-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M310">0001-0830-0000-0000.model_0.html</M>
+<M ID="M311">0001-0830-0000-0000.model_1.html</M>
+<M ID="M312">0001-0830-0000-0000.model_2.html</M>
+<M ID="M313">0001-0830-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="32">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0857-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0857-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M320">0001-0857-0000-0000.model_0.html</M>
+<M ID="M321">0001-0857-0000-0000.model_1.html</M>
+<M ID="M322">0001-0857-0000-0000.model_2.html</M>
+<M ID="M323">0001-0857-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="33">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0870-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0870-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M330">0001-0870-0000-0000.model_0.html</M>
+<M ID="M331">0001-0870-0000-0000.model_1.html</M>
+<M ID="M332">0001-0870-0000-0000.model_2.html</M>
+<M ID="M333">0001-0870-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="34">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0882-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0882-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M340">0001-0882-0000-0000.model_0.html</M>
+<M ID="M341">0001-0882-0000-0000.model_1.html</M>
+<M ID="M342">0001-0882-0000-0000.model_2.html</M>
+<M ID="M343">0001-0882-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="35">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0889-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0889-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M350">0001-0889-0000-0000.model_0.html</M>
+<M ID="M351">0001-0889-0000-0000.model_1.html</M>
+<M ID="M352">0001-0889-0000-0000.model_2.html</M>
+<M ID="M353">0001-0889-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="36">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0913-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0913-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M360">0001-0913-0000-0000.model_0.html</M>
+<M ID="M361">0001-0913-0000-0000.model_1.html</M>
+<M ID="M362">0001-0913-0000-0000.model_2.html</M>
+<M ID="M363">0001-0913-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="37">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0932-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0932-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M370">0001-0932-0000-0000.model_0.html</M>
+<M ID="M371">0001-0932-0000-0000.model_1.html</M>
+<M ID="M372">0001-0932-0000-0000.model_2.html</M>
+<M ID="M373">0001-0932-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="38">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0957-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0957-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M380">0001-0957-0000-0000.model_0.html</M>
+<M ID="M381">0001-0957-0000-0000.model_1.html</M>
+<M ID="M382">0001-0957-0000-0000.model_2.html</M>
+<M ID="M383">0001-0957-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="39">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0981-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0981-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M390">0001-0981-0000-0000.model_0.html</M>
+<M ID="M391">0001-0981-0000-0000.model_1.html</M>
+<M ID="M392">0001-0981-0000-0000.model_2.html</M>
+<M ID="M393">0001-0981-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="40">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-0984-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-0984-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M400">0001-0984-0000-0000.model_0.html</M>
+<M ID="M401">0001-0984-0000-0000.model_1.html</M>
+<M ID="M402">0001-0984-0000-0000.model_2.html</M>
+<M ID="M403">0001-0984-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="41">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1001-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1001-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M410">0001-1001-0000-0000.model_0.html</M>
+<M ID="M411">0001-1001-0000-0000.model_1.html</M>
+<M ID="M412">0001-1001-0000-0000.model_2.html</M>
+<M ID="M413">0001-1001-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="42">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1007-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1007-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M420">0001-1007-0000-0000.model_0.html</M>
+<M ID="M421">0001-1007-0000-0000.model_1.html</M>
+<M ID="M422">0001-1007-0000-0000.model_2.html</M>
+<M ID="M423">0001-1007-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="43">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1021-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1021-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M430">0001-1021-0000-0000.model_0.html</M>
+<M ID="M431">0001-1021-0000-0000.model_1.html</M>
+<M ID="M432">0001-1021-0000-0000.model_2.html</M>
+<M ID="M433">0001-1021-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="44">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1030-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1030-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M440">0001-1030-0000-0000.model_0.html</M>
+<M ID="M441">0001-1030-0000-0000.model_1.html</M>
+<M ID="M442">0001-1030-0000-0000.model_2.html</M>
+<M ID="M443">0001-1030-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="45">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1046-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1046-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M450">0001-1046-0000-0000.model_0.html</M>
+<M ID="M451">0001-1046-0000-0000.model_1.html</M>
+<M ID="M452">0001-1046-0000-0000.model_2.html</M>
+<M ID="M453">0001-1046-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="46">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1056-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1056-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M460">0001-1056-0000-0000.model_0.html</M>
+<M ID="M461">0001-1056-0000-0000.model_1.html</M>
+<M ID="M462">0001-1056-0000-0000.model_2.html</M>
+<M ID="M463">0001-1056-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="47">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1076-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1076-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M470">0001-1076-0000-0000.model_0.html</M>
+<M ID="M471">0001-1076-0000-0000.model_1.html</M>
+<M ID="M472">0001-1076-0000-0000.model_2.html</M>
+<M ID="M473">0001-1076-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="48">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1095-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1095-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M480">0001-1095-0000-0000.model_0.html</M>
+<M ID="M481">0001-1095-0000-0000.model_1.html</M>
+<M ID="M482">0001-1095-0000-0000.model_2.html</M>
+<M ID="M483">0001-1095-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="49">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0001-1098-0000-0000.mcdonald.system.html</P>
+<P ID="1">0001-1098-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M490">0001-1098-0000-0000.model_0.html</M>
+<M ID="M491">0001-1098-0000-0000.model_1.html</M>
+<M ID="M492">0001-1098-0000-0000.model_2.html</M>
+<M ID="M493">0001-1098-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="50">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0021-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0021-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M500">0002-0021-0000-0000.model_0.html</M>
+<M ID="M501">0002-0021-0000-0000.model_1.html</M>
+<M ID="M502">0002-0021-0000-0000.model_2.html</M>
+<M ID="M503">0002-0021-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="51">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0022-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0022-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M510">0002-0022-0000-0000.model_0.html</M>
+<M ID="M511">0002-0022-0000-0000.model_1.html</M>
+<M ID="M512">0002-0022-0000-0000.model_2.html</M>
+<M ID="M513">0002-0022-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="52">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0023-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0023-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M520">0002-0023-0000-0000.model_0.html</M>
+<M ID="M521">0002-0023-0000-0000.model_1.html</M>
+<M ID="M522">0002-0023-0000-0000.model_2.html</M>
+<M ID="M523">0002-0023-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="53">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0025-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0025-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M530">0002-0025-0000-0000.model_0.html</M>
+<M ID="M531">0002-0025-0000-0000.model_1.html</M>
+<M ID="M532">0002-0025-0000-0000.model_2.html</M>
+<M ID="M533">0002-0025-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="54">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0027-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0027-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M540">0002-0027-0000-0000.model_0.html</M>
+<M ID="M541">0002-0027-0000-0000.model_1.html</M>
+<M ID="M542">0002-0027-0000-0000.model_2.html</M>
+<M ID="M543">0002-0027-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="55">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0028-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0028-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M550">0002-0028-0000-0000.model_0.html</M>
+<M ID="M551">0002-0028-0000-0000.model_1.html</M>
+<M ID="M552">0002-0028-0000-0000.model_2.html</M>
+<M ID="M553">0002-0028-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="56">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0033-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0033-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M560">0002-0033-0000-0000.model_0.html</M>
+<M ID="M561">0002-0033-0000-0000.model_1.html</M>
+<M ID="M562">0002-0033-0000-0000.model_2.html</M>
+<M ID="M563">0002-0033-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="57">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0042-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0042-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M570">0002-0042-0000-0000.model_0.html</M>
+<M ID="M571">0002-0042-0000-0000.model_1.html</M>
+<M ID="M572">0002-0042-0000-0000.model_2.html</M>
+<M ID="M573">0002-0042-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="58">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0044-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0044-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M580">0002-0044-0000-0000.model_0.html</M>
+<M ID="M581">0002-0044-0000-0000.model_1.html</M>
+<M ID="M582">0002-0044-0000-0000.model_2.html</M>
+<M ID="M583">0002-0044-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="59">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0045-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0045-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M590">0002-0045-0000-0000.model_0.html</M>
+<M ID="M591">0002-0045-0000-0000.model_1.html</M>
+<M ID="M592">0002-0045-0000-0000.model_2.html</M>
+<M ID="M593">0002-0045-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="60">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0051-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0051-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M600">0002-0051-0000-0000.model_0.html</M>
+<M ID="M601">0002-0051-0000-0000.model_1.html</M>
+<M ID="M602">0002-0051-0000-0000.model_2.html</M>
+<M ID="M603">0002-0051-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="61">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0059-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0059-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M610">0002-0059-0000-0000.model_0.html</M>
+<M ID="M611">0002-0059-0000-0000.model_1.html</M>
+<M ID="M612">0002-0059-0000-0000.model_2.html</M>
+<M ID="M613">0002-0059-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="62">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0060-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0060-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M620">0002-0060-0000-0000.model_0.html</M>
+<M ID="M621">0002-0060-0000-0000.model_1.html</M>
+<M ID="M622">0002-0060-0000-0000.model_2.html</M>
+<M ID="M623">0002-0060-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="63">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0062-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0062-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M630">0002-0062-0000-0000.model_0.html</M>
+<M ID="M631">0002-0062-0000-0000.model_1.html</M>
+<M ID="M632">0002-0062-0000-0000.model_2.html</M>
+<M ID="M633">0002-0062-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="64">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0068-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0068-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M640">0002-0068-0000-0000.model_0.html</M>
+<M ID="M641">0002-0068-0000-0000.model_1.html</M>
+<M ID="M642">0002-0068-0000-0000.model_2.html</M>
+<M ID="M643">0002-0068-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="65">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0076-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0076-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M650">0002-0076-0000-0000.model_0.html</M>
+<M ID="M651">0002-0076-0000-0000.model_1.html</M>
+<M ID="M652">0002-0076-0000-0000.model_2.html</M>
+<M ID="M653">0002-0076-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="66">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0085-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0085-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M660">0002-0085-0000-0000.model_0.html</M>
+<M ID="M661">0002-0085-0000-0000.model_1.html</M>
+<M ID="M662">0002-0085-0000-0000.model_2.html</M>
+<M ID="M663">0002-0085-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="67">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0086-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0086-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M670">0002-0086-0000-0000.model_0.html</M>
+<M ID="M671">0002-0086-0000-0000.model_1.html</M>
+<M ID="M672">0002-0086-0000-0000.model_2.html</M>
+<M ID="M673">0002-0086-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="68">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0093-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0093-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M680">0002-0093-0000-0000.model_0.html</M>
+<M ID="M681">0002-0093-0000-0000.model_1.html</M>
+<M ID="M682">0002-0093-0000-0000.model_2.html</M>
+<M ID="M683">0002-0093-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="69">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0098-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0098-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M690">0002-0098-0000-0000.model_0.html</M>
+<M ID="M691">0002-0098-0000-0000.model_1.html</M>
+<M ID="M692">0002-0098-0000-0000.model_2.html</M>
+<M ID="M693">0002-0098-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="70">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0106-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0106-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M700">0002-0106-0000-0000.model_0.html</M>
+<M ID="M701">0002-0106-0000-0000.model_1.html</M>
+<M ID="M702">0002-0106-0000-0000.model_2.html</M>
+<M ID="M703">0002-0106-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="71">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0107-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0107-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M710">0002-0107-0000-0000.model_0.html</M>
+<M ID="M711">0002-0107-0000-0000.model_1.html</M>
+<M ID="M712">0002-0107-0000-0000.model_2.html</M>
+<M ID="M713">0002-0107-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="72">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0129-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0129-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M720">0002-0129-0000-0000.model_0.html</M>
+<M ID="M721">0002-0129-0000-0000.model_1.html</M>
+<M ID="M722">0002-0129-0000-0000.model_2.html</M>
+<M ID="M723">0002-0129-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="73">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0131-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0131-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M730">0002-0131-0000-0000.model_0.html</M>
+<M ID="M731">0002-0131-0000-0000.model_1.html</M>
+<M ID="M732">0002-0131-0000-0000.model_2.html</M>
+<M ID="M733">0002-0131-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="74">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0139-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0139-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M740">0002-0139-0000-0000.model_0.html</M>
+<M ID="M741">0002-0139-0000-0000.model_1.html</M>
+<M ID="M742">0002-0139-0000-0000.model_2.html</M>
+<M ID="M743">0002-0139-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="75">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0142-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0142-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M750">0002-0142-0000-0000.model_0.html</M>
+<M ID="M751">0002-0142-0000-0000.model_1.html</M>
+<M ID="M752">0002-0142-0000-0000.model_2.html</M>
+<M ID="M753">0002-0142-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="76">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0146-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0146-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M760">0002-0146-0000-0000.model_0.html</M>
+<M ID="M761">0002-0146-0000-0000.model_1.html</M>
+<M ID="M762">0002-0146-0000-0000.model_2.html</M>
+<M ID="M763">0002-0146-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="77">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0161-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0161-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M770">0002-0161-0000-0000.model_0.html</M>
+<M ID="M771">0002-0161-0000-0000.model_1.html</M>
+<M ID="M772">0002-0161-0000-0000.model_2.html</M>
+<M ID="M773">0002-0161-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="78">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0162-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0162-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M780">0002-0162-0000-0000.model_0.html</M>
+<M ID="M781">0002-0162-0000-0000.model_1.html</M>
+<M ID="M782">0002-0162-0000-0000.model_2.html</M>
+<M ID="M783">0002-0162-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="79">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0178-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0178-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M790">0002-0178-0000-0000.model_0.html</M>
+<M ID="M791">0002-0178-0000-0000.model_1.html</M>
+<M ID="M792">0002-0178-0000-0000.model_2.html</M>
+<M ID="M793">0002-0178-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="80">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0190-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0190-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M800">0002-0190-0000-0000.model_0.html</M>
+<M ID="M801">0002-0190-0000-0000.model_1.html</M>
+<M ID="M802">0002-0190-0000-0000.model_2.html</M>
+<M ID="M803">0002-0190-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="81">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0202-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0202-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M810">0002-0202-0000-0000.model_0.html</M>
+<M ID="M811">0002-0202-0000-0000.model_1.html</M>
+<M ID="M812">0002-0202-0000-0000.model_2.html</M>
+<M ID="M813">0002-0202-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="82">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0210-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0210-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M820">0002-0210-0000-0000.model_0.html</M>
+<M ID="M821">0002-0210-0000-0000.model_1.html</M>
+<M ID="M822">0002-0210-0000-0000.model_2.html</M>
+<M ID="M823">0002-0210-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="83">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0217-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0217-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M830">0002-0217-0000-0000.model_0.html</M>
+<M ID="M831">0002-0217-0000-0000.model_1.html</M>
+<M ID="M832">0002-0217-0000-0000.model_2.html</M>
+<M ID="M833">0002-0217-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="84">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0228-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0228-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M840">0002-0228-0000-0000.model_0.html</M>
+<M ID="M841">0002-0228-0000-0000.model_1.html</M>
+<M ID="M842">0002-0228-0000-0000.model_2.html</M>
+<M ID="M843">0002-0228-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="85">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0231-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0231-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M850">0002-0231-0000-0000.model_0.html</M>
+<M ID="M851">0002-0231-0000-0000.model_1.html</M>
+<M ID="M852">0002-0231-0000-0000.model_2.html</M>
+<M ID="M853">0002-0231-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="86">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0232-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0232-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M860">0002-0232-0000-0000.model_0.html</M>
+<M ID="M861">0002-0232-0000-0000.model_1.html</M>
+<M ID="M862">0002-0232-0000-0000.model_2.html</M>
+<M ID="M863">0002-0232-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="87">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0256-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0256-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M870">0002-0256-0000-0000.model_0.html</M>
+<M ID="M871">0002-0256-0000-0000.model_1.html</M>
+<M ID="M872">0002-0256-0000-0000.model_2.html</M>
+<M ID="M873">0002-0256-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="88">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0290-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0290-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M880">0002-0290-0000-0000.model_0.html</M>
+<M ID="M881">0002-0290-0000-0000.model_1.html</M>
+<M ID="M882">0002-0290-0000-0000.model_2.html</M>
+<M ID="M883">0002-0290-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="89">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0294-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0294-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M890">0002-0294-0000-0000.model_0.html</M>
+<M ID="M891">0002-0294-0000-0000.model_1.html</M>
+<M ID="M892">0002-0294-0000-0000.model_2.html</M>
+<M ID="M893">0002-0294-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="90">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0295-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0295-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M900">0002-0295-0000-0000.model_0.html</M>
+<M ID="M901">0002-0295-0000-0000.model_1.html</M>
+<M ID="M902">0002-0295-0000-0000.model_2.html</M>
+<M ID="M903">0002-0295-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="91">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0302-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0302-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M910">0002-0302-0000-0000.model_0.html</M>
+<M ID="M911">0002-0302-0000-0000.model_1.html</M>
+<M ID="M912">0002-0302-0000-0000.model_2.html</M>
+<M ID="M913">0002-0302-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="92">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0334-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0334-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M920">0002-0334-0000-0000.model_0.html</M>
+<M ID="M921">0002-0334-0000-0000.model_1.html</M>
+<M ID="M922">0002-0334-0000-0000.model_2.html</M>
+<M ID="M923">0002-0334-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="93">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0346-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0346-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M930">0002-0346-0000-0000.model_0.html</M>
+<M ID="M931">0002-0346-0000-0000.model_1.html</M>
+<M ID="M932">0002-0346-0000-0000.model_2.html</M>
+<M ID="M933">0002-0346-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="94">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0349-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0349-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M940">0002-0349-0000-0000.model_0.html</M>
+<M ID="M941">0002-0349-0000-0000.model_1.html</M>
+<M ID="M942">0002-0349-0000-0000.model_2.html</M>
+<M ID="M943">0002-0349-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="95">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0351-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0351-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M950">0002-0351-0000-0000.model_0.html</M>
+<M ID="M951">0002-0351-0000-0000.model_1.html</M>
+<M ID="M952">0002-0351-0000-0000.model_2.html</M>
+<M ID="M953">0002-0351-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="96">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0353-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0353-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M960">0002-0353-0000-0000.model_0.html</M>
+<M ID="M961">0002-0353-0000-0000.model_1.html</M>
+<M ID="M962">0002-0353-0000-0000.model_2.html</M>
+<M ID="M963">0002-0353-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="97">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0356-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0356-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M970">0002-0356-0000-0000.model_0.html</M>
+<M ID="M971">0002-0356-0000-0000.model_1.html</M>
+<M ID="M972">0002-0356-0000-0000.model_2.html</M>
+<M ID="M973">0002-0356-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="98">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0360-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0360-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M980">0002-0360-0000-0000.model_0.html</M>
+<M ID="M981">0002-0360-0000-0000.model_1.html</M>
+<M ID="M982">0002-0360-0000-0000.model_2.html</M>
+<M ID="M983">0002-0360-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+<EVAL ID="99">
+<PEER-ROOT>
+result_blog_summarization
+</PEER-ROOT>
+<MODEL-ROOT>
+data_blog_summarization
+</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE">
+</INPUT-FORMAT>
+<PEERS>
+<P ID="0">0002-0366-0000-0000.mcdonald.system.html</P>
+<P ID="1">0002-0366-0000-0000.gillick.system.html</P>
+</PEERS>
+<MODELS>
+<M ID="M990">0002-0366-0000-0000.model_0.html</M>
+<M ID="M991">0002-0366-0000-0000.model_1.html</M>
+<M ID="M992">0002-0366-0000-0000.model_2.html</M>
+<M ID="M993">0002-0366-0000-0000.model_3.html</M>
+</MODELS>
+</EVAL>
+</ROUGE-EVAL>
