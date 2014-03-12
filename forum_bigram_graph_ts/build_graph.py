@@ -49,7 +49,7 @@ class sentGroup:
 
 
 class wordGraph:
-    def __init__(self, sentGroup, rmStop=False):
+    def __init__(self, sentGroup, rmStop = False):
         self.sentGroup = sentGroup
         self.readStopWord()
         pattern = re.compile(r"\w+")
@@ -61,8 +61,6 @@ class wordGraph:
             sent = item[1]
             tokens = nltk.word_tokenize(sent.lower())
             #tokens = [t for t in tokens if pattern.match(t) and t not in self.stopWord]
-            #tokens = [tokens[i]+" "+tokens[i+1] for i in range(len(tokens)-1) if pattern.match(tokens[i]) and pattern.match(tokens[i+1]) \
-            #         ]# and (tokens[i] not in self.stopWord or tokens[i+1] not in self.stopWord)]
             if rmStop:
                 self.readStopWord()
                 tokens = [tokens[i]+" "+tokens[i+1] for i in range(len(tokens)-1) if pattern.match(tokens[i]) and pattern.match(tokens[i+1]) \
@@ -137,9 +135,27 @@ class wordGraph:
             if rowSum[i] == 0:
                 rowSum[i] = 1
 
+        # restart vector for topic sensitive pagerank
+        topicWord = self.readTopWord()
+        restart = numpy.zeros((1,N))
+        items = self.wordMap.items()
+        items = [list(t) for t in items]
+        [t.reverse() for t in items]
+        revWordMap = dict(items)
+
+        for i in range(N):
+            term = revWordMap[i]
+            if term in topicWord:
+                restart[0,i] = 1
+            else:
+                words = term.split()
+                if words[0] in topicWord or words[1] in topicWord:
+                    restart[0,i] = 1
+        restart_matrix = numpy.tile(restart, (N,1))
         denoMatrix = numpy.tile(rowSum, (1,N))
         #self.weightMatrix = self.graphMatrix/denoMatrix
-        self.weightMatrix = self.graphMatrix/denoMatrix*eta+ (1-eta)*1.0/N*numpy.matrix(numpy.ones((N,N)))
+        #self.weightMatrix = self.graphMatrix/denoMatrix*eta+ (1-eta)*1.0/N*numpy.matrix(numpy.ones((N,N)))
+        self.weightMatrix = self.graphMatrix/denoMatrix*eta+ (1-eta)*1.0/restart.sum()*restart_matrix
         #print self.weightMatrix
         tmp_score = self.score.copy()
         for i in range(maxIter):
@@ -152,6 +168,15 @@ class wordGraph:
             tmp_score = self.score.copy()
         print "Iteration terminated at: ", i + 1
         print "Difference is: ", diff
+
+    def readTopWord(self):
+        f = open("D:/Project/Document_Summarization/forum_bigram_graph_ts/sentiWords.txt")
+        topicWord = f.read().split()
+        f.close()
+        f = open("D:/Project/Document_Summarization/forum_bigram_graph_ts/actionWords.txt")
+        topicWord += f.read().split()
+        f.close()
+        return set(topicWord)
 
     def saveScore(self, fname):
         items = self.wordMap.items()
